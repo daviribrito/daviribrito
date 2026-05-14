@@ -88,11 +88,30 @@ Docker, Linux, Windows Server, deployments, AWS and DevOps concepts.
 
 ---
 
-# Education
+# Education & Certifications
 
+### Higher Education
 - Information Technology Management — Cruzeiro do Sul University
 - Systems Development Technician — ETEC
 
+### Additional Courses & Certifications
+
+#### FIAP ON
+- Leadership Communication
+- Big Data & Analytics
+- Business Intelligence (BI)
+- Cloud Fundamentals
+- Artificial Intelligence & Computational Intelligence
+- Blockchain Advanced
+
+#### Fundação Bradesco
+- IT Systems Projects
+- Data Modeling
+- Database Implementation
+- Database Administration
+
+#### Alura
+- SQL Server 2022 — Advanced Queries
 ---
 
 ## GitHub Stats
