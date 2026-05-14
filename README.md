@@ -1,15 +1,9 @@
 <div align="center">
-
 <img src="./assets/bannergithub.png" width="85%"/>
-
 </div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/daviribrito/daviribrito/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-
----
 
 # Hey! Welcome
 Fullstack Developer and IT Analyst focused on backend engineering, infrastructure and scalable software solutions.
@@ -32,7 +26,6 @@ Currently focused on the Fullstack ecosystem, building scalable applications and
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,react,nextjs,docker,aws,mysql,postgres,git,github,linux&theme=dark)](https://skillicons.dev)
-
 </div>
 
 <br/>
@@ -93,7 +86,7 @@ Docker, Linux, Windows Server, deployments, AWS and DevOps concepts.
 
 ### Higher Education
 - Information Technology Management — Cruzeiro do Sul University
-- Systems Development Technician — ETEC
+- Systems Development Technician — ETEC Uirapuru
 
 ### Additional Courses & Certifications
 
