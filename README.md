@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/bannergithub.png" width="100%"/>
+<img src="./assets/bannergithub.png" width="80%"/>
 
 </div>
 
