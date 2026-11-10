@@ -33,7 +33,6 @@ Currently focused on the Fullstack ecosystem, building scalable applications and
 | Area | Technologies & Knowledge |
 |---|---|
 | Backend | Java, Spring Boot, Node.js, REST APIs |
-| Frontend | React.js, Next.js, TypeScript |
 | Database | MySQL, PostgreSQL, SQL Server |
 | Infrastructure | Windows Server, Networks, Office 365 |
 | Cloud | AWS, Backup Environments |
